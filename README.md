@@ -7,6 +7,6 @@ Cat       |  Dog
 
 :---------|----------
 
-![](data/Images/cat.1.jpg) | ![](data/Images/dog.2.jpg)
+![](figures/cat.4.jpg) | ![](figures/dog.2.jpg)
 
 # Run the Project
